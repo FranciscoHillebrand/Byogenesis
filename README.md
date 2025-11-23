@@ -47,7 +47,6 @@ Se construyó un Dashboard estratégico centrado en la usabilidad para los direc
 > **Vista Previa del Dashboard:**
 >
 > ![Dashboard General](Dashboard.png)
-> *(Asegúrate de subir la imagen a la carpeta del repo y cambiar este nombre)*
 
 ## 💡 Insights y Resultados Clave
 
@@ -59,10 +58,10 @@ Tras el análisis de los datos, se presentaron las siguientes conclusiones a la 
 
 ## 📁 Estructura del Repositorio
 
-* `/Data`: Contiene los datasets procesados (si son públicos) o una muestra de ellos.
+* `DatosFinalesFiltrados`: Contiene los datasets procesados (si son públicos) o una muestra de ellos.
 * `PIDA_M4_Francisco_Hillebrand.ipynb`: Notebook con el proceso de ETL y EDA en Python.
-* `Informe_Biogenesys.pdf`: Informe ejecutivo detallado con hallazgos y narrativa.
-* `Dashboard_Biogenesys.pbix`: Archivo fuente de Power BI.
+* `Informe`: Informe ejecutivo detallado con hallazgos y narrativa.
+* `Dashboard.pbix`: Archivo fuente de Power BI.
 
 ---
 **Autor:** Francisco Javier Hillebrand
