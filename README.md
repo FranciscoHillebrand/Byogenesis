@@ -58,7 +58,7 @@ Tras el análisis de los datos, se presentaron las siguientes conclusiones a la 
 
 ## 📁 Estructura del Repositorio
 
-* `DatosFinalesFiltrados`: Contiene los datasets procesados (si son públicos) o una muestra de ellos.
+* `DatosFinalesFiltrados`: Contiene el dataset procesado.
 * `PIDA_M4_Francisco_Hillebrand.ipynb`: Notebook con el proceso de ETL y EDA en Python.
 * `Informe`: Informe ejecutivo detallado con hallazgos y narrativa.
 * `Dashboard.pbix`: Archivo fuente de Power BI.
